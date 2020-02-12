@@ -80,8 +80,6 @@ Badges
 ======
 Adjust the URLs here to point to your own Travis badge!
 
-    |TRAVIS| [![Build Status](https://travis-ci.com/rdzudzar/software-dev.svg?branch=master)](https://travis-ci.com/rdzudzar/software-dev)
-
 .. code:: rst
 
   .. |TRAVIS| image: https://travis-ci.com/rdzudzar/software-dev.svg?branch=master
