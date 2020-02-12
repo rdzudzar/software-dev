@@ -6,7 +6,7 @@ notifications:
   email:
     recipients:
       # Please don't email me.  Put your email here.
-      - XxSephirothxX999@edgy.com
+      - robertdzudzar@gmail.com
     on_success: change
     on_failure: always
 
