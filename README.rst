@@ -1,6 +1,7 @@
 .. code:: rst
 
-    |TRAVIS| 
+.. image:: https://travis-ci.com/rdzudzar/software-dev.svg?branch=master
+    :target: https://travis-ci.com/rdzudzar/software-dev
 
 
 ***************************************
@@ -74,8 +75,3 @@ us just spitballing.  We don't have any hard and fast solutions for them.
 
 If you want help though, we have some tips...
 
-
-Badges
-======
-.. image:: https://travis-ci.com/rdzudzar/software-dev.svg?branch=master
-    :target: https://travis-ci.com/rdzudzar/software-dev
