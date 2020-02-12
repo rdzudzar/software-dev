@@ -77,4 +77,5 @@ If you want help though, we have some tips...
 
 Badges
 ======
-[![Build Status](https://travis-ci.com/rdzudzar/software-dev.svg?branch=master)](https://travis-ci.com/rdzudzar/software-dev)
+.. image:: https://travis-ci.com/rdzudzar/software-dev.svg?branch=master
+    :target: https://travis-ci.com/rdzudzar/software-dev
